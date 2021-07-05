@@ -117,3 +117,23 @@ h2{
     margin: 0px 20px;
 
 }
+/* ----------------------------------  */
+.likes-comments{
+    margin: 0 4%;
+    width: 91%;
+    /* background-color: lightskyblue; */
+    display: flex;
+    height: 200px;
+    box-shadow: 20px 20px 60px gray;
+    border-radius: 13px;
+}
+.followers{
+    text-align: center;
+    /* padding: 3%; */
+    /* background-color: lime; */
+    /* margin-top: 40px; */
+    margin-left: 100px;
+    margin-right: 100px;
+     width: 80%;
+    font-weight: 600;
+}
