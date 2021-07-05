@@ -137,6 +137,21 @@ h2{
      width: 80%;
     font-weight: 600;
 }
+/* ------------------------------------------ popular teas -----------------  */
+#popular-tea{
+    text-align: center;
+}
+.tea-container{
+    display: flex;
+    width: 100%;
+}
+.tea-menu{
+    margin: 0 10%;
+    color: purple;
+}
+
+
+
 /* -------------------------------------------- footer ---------------------  */
 footer{
     padding-top: 1%;     
