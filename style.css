@@ -137,3 +137,18 @@ h2{
      width: 80%;
     font-weight: 600;
 }
+/* -------------------------------------------- footer ---------------------  */
+footer{
+    padding-top: 1%;     
+    color: white;
+    text-align: center;
+    background-color: black; 
+    padding-bottom: 1%;     
+}
+small{
+    color: green;
+}
+.copyright{
+    color: white;
+}
+
