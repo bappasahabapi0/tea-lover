@@ -92,14 +92,28 @@ h2{
 .box{
     height: 510px;
     width: 410px;
-    background-color: lightcoral;
+    /* background-color: lightcoral; */
     margin: 40px 60px;
     box-shadow: 20px 20px 60px gray;
+    border-radius: 13px;
 
 }
-.image{
+.recipe-image{
     margin: 20px 20px;
     width:90% ;
     height: 50%;
-    background-color: limegreen;
+    /* background-color: limegreen; */
+}
+#tea-1{
+    width: 100%;
+}
+#tea-2{
+    width: 100%;
+}
+#tea-3{
+    width: 100%;
+}
+.recipe-title{
+    margin: 0px 20px;
+
 }
