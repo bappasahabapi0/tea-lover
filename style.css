@@ -10,12 +10,11 @@ span{
     color: purple;
 }
 p{
-    font-size: 20px;
+    font-size: 18px;
     padding-top: -13px;
 }
 
-section{
-
+.flexible{ 
     display: flex;
     padding: 4%;
     /* background-color: plum; */
@@ -29,7 +28,7 @@ section{
 .intro-pic{
     /* padding-top: 7%; */
     padding-right:20%;
-    width: 90%;
+    width: 100%;
    
 }
 a{
@@ -41,6 +40,15 @@ a{
     font-weight: 500;
     color: white;
 }
+.introducton-background{
+     /* background-position:top-center; */
+     /* background-image: url(images/top-banner.png); */
+     background-repeat: no-repeat;
+     /* background-position: center; */
+}
+
+
+
 /* ----------------------------- About me ------------- */
 .div-half-about{
     width: 50%;
@@ -68,4 +76,30 @@ a{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
     background-position: center;
+}
+/* -----------------------   My recipies ---------------  */
+h2{
+    font-size: 35px;
+}
+.my-recipies-div{
+    text-align: center;
+    padding:0 10%;
+}
+.card-container{
+    /* background-color: lightblue; */
+    display: flex;
+}
+.box{
+    height: 510px;
+    width: 410px;
+    background-color: lightcoral;
+    margin: 40px 60px;
+    box-shadow: 20px 20px 60px gray;
+
+}
+.image{
+    margin: 20px 20px;
+    width:90% ;
+    height: 50%;
+    background-color: limegreen;
 }
