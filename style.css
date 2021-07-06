@@ -14,7 +14,7 @@ p{
     font-size: 18px;
     padding-top: -13px;
 }
-
+/* ----------------------------- Inroduction section --------------------  */
 .flexible{ 
     display: flex;
     padding: 4%;
@@ -50,7 +50,7 @@ a{
 
 
 
-/* ----------------------------- About me ------------- */
+/* ------------------------------------------------- About me ------------- */
 .div-half-about{
     width: 50%;
     margin-bottom: 8%;
@@ -59,8 +59,6 @@ a{
     /* background-color: darkgoldenrod; */
     /* margin-top: 0; */
     
-    /* margin: 0; */
-    /* padding: 0 0; */
 }
 .about-pic{
    
@@ -78,7 +76,7 @@ a{
     background-repeat: no-repeat;
     background-position: center;
 }
-/* -----------------------   My recipies ---------------  */
+/* ----------------------- ---------------------  My recipies ---------------  */
 h2{
     font-size: 35px;
 }
@@ -118,7 +116,7 @@ h2{
     margin: 0px 20px;
 
 }
-/* ----------------------------------  */
+/* ------------------            followers sections      ----------------  */
 .likes-comments{
     margin: 0 4%;
     width: 91%;
