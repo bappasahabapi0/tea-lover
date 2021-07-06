@@ -7,7 +7,8 @@ h1{
     font-size: 45px;
 }
 span{
-    color: purple;
+    /* color: purple; */
+    color: green;
 }
 p{
     font-size: 18px;
@@ -36,7 +37,7 @@ a{
     font-size: 15px;
     padding: 15px 30px;
     border-radius: 25px;
-    background-image: linear-gradient(plum,purple);
+    background-image: linear-gradient(green ,limegreen);
     font-weight: 500;
     color: white;
 }
@@ -144,10 +145,16 @@ h2{
 .tea-container{
     display: flex;
     width: 100%;
+    
 }
 .tea-menu{
     margin: 0 10%;
-    color: purple;
+    color: green;
+    font-weight: 200;
+    padding-bottom: 1%;  
+}
+ul li {
+    list-style-type: none;
 }
 
 
