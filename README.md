@@ -20,8 +20,8 @@
  -       About me Section ,
  -        Tea menu section, 
  -        Social-followrs section,
- -        Popular Tea sesction
- -         Footer.
+ -        Popular Tea sesction,
+ -         Footer
 
 
  
